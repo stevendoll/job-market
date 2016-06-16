@@ -1,0 +1,5 @@
+.DS_Store
+temp.json
+linkedin-api.ipynb
+data/*
+.ipynb_checkpoints/
